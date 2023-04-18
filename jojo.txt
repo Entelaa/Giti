@@ -4,4 +4,4 @@ with Git. By the end of the chapter, you should be able to configure and initial
 and stop tracking files, and stage and commit changes. We’ll also show you how to set up Git to
 ignore certain files and file patterns, how to undo mistakes quickly and easily, how to browse the
 history of your project and view changes between commits, and sh and pull from remote
-repositories.
+r
